@@ -1,4 +1,4 @@
-<h1 align="center">ʜ, ɪ'ᴍ ɴᴀʀᴀᴋᴏʀɴ ᴠᴏʀᴀᴋᴜʟ (ɴɪɴᴋ) 😼✨</h1>
+<h1 align="center">ʜɪ, ɪ'ᴍ ɴᴀʀᴀᴋᴏʀɴ ᴠᴏʀᴀᴋᴜʟ (ɴɪɴᴋ) 😼✨</h1>
 
 <p align="center">
   <a href="mailto:narakornv8@gmail.com">
@@ -47,7 +47,7 @@
 
 ## 📊 ​🇬​​🇮​​🇹​​🇭​​🇺​​🇧​ ​🇸​​🇹​​🇦​​🇹​​🇸​ ​🇦​​🇳​​🇩​ ​🇹​​🇷​​🇴​​🇵​​🇭​​🇮​​🇪​​🇸​ 🏆
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nxxk23&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=nxxk23&show_icons=true&theme=onedark" alt="GitHub Stats">
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nxxk23&theme=onedark" alt="GitHub Trophies">
